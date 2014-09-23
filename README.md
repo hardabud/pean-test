@@ -1,3 +1,5 @@
-#Source for MEAN SF Developers Talk
+#PEAN-test
 
-https://www.youtube.com/watch?v=AEE7DY2AYvI
+Replace MongoDB in MEAN by PostgreSQL = PEAN
+
+quick hack of https://github.com/mikemoser/mean-demo
