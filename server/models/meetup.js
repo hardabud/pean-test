@@ -1,5 +1,6 @@
-var mongoose = require('mongoose');
+var user = 'user';
+var password = 'password';
+var server = 'localhost';
+var dbName = 'postgres';
 
-module.exports = mongoose.model('Meetup', {
-  name: String
-});
+exports.connectString = 'tcp://' + user + ':' + password + '@' + server + '/' + dbName;

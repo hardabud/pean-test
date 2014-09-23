@@ -4,6 +4,6 @@
   "dependencies": {
     "express": "^4.3.1",
     "body-parser": "^1.2.2",
-    "mongoose": "^3.8.11"
+    "pg": "^3.4.2"
   }
 }
